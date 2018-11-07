@@ -1,0 +1,37 @@
+Disk /dev/sdb: 30 GiB, 32245809152 bytes, 62980096 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x9a8726ed
+
+Device     Boot    Start      End  Sectors  Size Id Type
+/dev/sdb1  *        2048 61523967 61521920 29.3G 83 Linux
+/dev/sdb2       61526014 62978047  1452034  709M  5 Extended
+/dev/sdb5       61526016 62978047  1452032  709M 82 Linux swap / Solaris
+
+
+Disk /dev/sda: 20 GiB, 21474836480 bytes, 41943040 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x22693724
+
+Device     Boot    Start      End  Sectors  Size Id Type
+/dev/sda1  *        2048 40038399 40036352 19.1G 83 Linux
+/dev/sda2       40040446 41940991  1900546  928M  5 Extended
+/dev/sda5       40040448 41940991  1900544  928M 82 Linux swap / Solaris
+
+
+Disk /dev/sdc: 35 GiB, 37580963840 bytes, 73400320 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x14fdf3b3
+
+Device     Boot Start      End  Sectors Size Id Type
+/dev/sdc1        2048 73400319 73398272  35G 83 Linux
+
+
